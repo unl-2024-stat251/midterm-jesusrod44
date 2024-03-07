@@ -59,11 +59,11 @@ election_date,state,county_name,jurisdiction,jurisdiction_type,precinct_id,preci
 
 1.  What is the file delimiter?
     (1 pt)\
-    <Each field is separated by a comma>
+    Each field is separated by a comma
 
 2.  What is the header?
     (1 pt)\
-    <The first row>
+    The first row
 
 3.  How many columns will the data have when it is read in using R or Python?
     (1 pt)\
